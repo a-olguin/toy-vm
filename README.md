@@ -1,0 +1,1 @@
+vagrant up to make an ubuntu 20.04 VM for toy projects. Will install essential gcc toolchain & python development configuration / headers. Manually install Cmake after if a project needs it. Also, check line endings of downloaded provision_script to make sure they're correct for linux before vagrant up'ing.
